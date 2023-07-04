@@ -1,3 +1,3 @@
 # dart-practice
 
-here i am uploading my daily dart practise code starting from basic
+here I am uploading my daily dart practice code starting from the basics
